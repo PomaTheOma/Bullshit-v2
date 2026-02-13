@@ -1,0 +1,5 @@
+{
+  "name": "KI-Detektor Umfrage & Dashboard",
+  "description": "A serverless survey system to detect AI generated text with a live dashboard, powered by Google Sheets.",
+  "requestFramePermissions": []
+}
